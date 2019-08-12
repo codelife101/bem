@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+body{
+	background-color: #333;
+}
+
+.member__heading {
+	font-size: 35px;
+	color: tomato; 
+	font-family: helvetica;
+	margin: 30px;
+}
+
+.member__text {
+	border-radius: 5px;
+	border: 2px solid white;
+	background: tomato;
+	color: white;
+
+}
+
+.member__lable {
+
+	font-size: 20px;
+	margin: 30px;
+	font-family: helvetica;
+	color: pink;
+}
